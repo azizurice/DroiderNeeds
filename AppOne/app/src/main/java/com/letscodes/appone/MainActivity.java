@@ -8,8 +8,16 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
+    private EditText textBoxOne;
+    private EditText textBoxTwo;
+    private TextView textViewResult;
+    private Button addButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,6 +25,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        // The following three lines will make a bridge between the code and UI (implemented using XML).
+
+        textBoxOne=(EditText)findViewById(R.id.number_one);
+        textBoxTwo =(EditText)findViewById(R.id.number_two);
+        textViewResult =(TextView)findViewById(R.id.display_sum);
+
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -48,5 +64,20 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+
+    public void addNumbers(View view){
+        int mNumberOne = Integer.valueOf(textBoxOne.getText().toString());
+        int mNumberTwo = Integer.valueOf(textBoxTwo.getText().toString());
+
+        int sum =sumOfTwoNumbers(mNumberOne,mNumberTwo);
+
+        textViewResult.setText("");
+        textViewResult.setText(Integer.toString(sum));
+    }
+
+    public int sumOfTwoNumbers(int n1, int n2){
+        return n1+n2;
     }
 }

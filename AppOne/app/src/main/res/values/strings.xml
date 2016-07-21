@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AppOne</string>
     <string name="action_settings">Settings</string>
+    <string name="number_hint"> Enter a number</string>
+    <string name="display_result"> Sum will be shown here.</string>
+    <string name="add_numbers"> + </string>
+
 </resources>
