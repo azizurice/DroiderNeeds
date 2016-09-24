@@ -16,7 +16,7 @@ Output and Project Structure
 
 - When our device is phone and orientation is portrait
 
-<img src="https://github.com/azizurice/DroiderNeeds/blob/master/AppSeven/doc/images/Portrait.png" width="600px" height="400px" />
+<img src="https://github.com/azizurice/DroiderNeeds/blob/master/AppSeven/doc/images/Portrait.png" />
 
 - When our device is tablet or phone but orientation is landscape
 
