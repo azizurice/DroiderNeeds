@@ -16,14 +16,14 @@ Output and Project Structure
 
 - When our device is phone and orientation is portrait
 
-<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/Portrait.png" width="900px" height="600px" />
+<img src="https://github.com/azizurice/DroiderNeeds/blob/master/AppSeven/doc/images/Portrait.png" width="900px" height="600px" />
 
 - When our device is tablet or phone but orientation is landscape
 
-<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/Landscape.png" />
+<img src="https://github.com/azizurice/DroiderNeeds/blob/master/AppSeven/doc/images/Ladscape.png" />
 
 - Project Structure
 
-<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/ProjectStructure.png" width="900px" height="600px" />
+<img src="https://github.com/azizurice/DroiderNeeds/blob/master/AppSeven/doc/images/ProjectStructure.png" width="900px" height="600px" />
 
 
