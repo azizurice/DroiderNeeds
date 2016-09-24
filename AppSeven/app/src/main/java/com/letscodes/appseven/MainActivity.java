@@ -5,7 +5,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity
-        implements MoviesFragment.OnMovieSelectedListener{
+        implements MovieFragment.OnMovieSelectedListener{
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity
             if (savedInstanceState !=null){
                 return;
             }
-            MoviesFragment movieNameFragment=new MoviesFragment();
+            MovieFragment movieNameFragment=new MovieFragment();
 
             movieNameFragment.setArguments(getIntent().getExtras());
 
