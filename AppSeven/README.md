@@ -7,3 +7,23 @@ Suppose, we want to show a list of Movies and their brief wiki details from in o
 
 
 Using this app, we have achieved this goal, please clone the project, import it in Android Studio and play with it. Hope, it will help you to know the advantages of fragments.
+
+
+See the results and project.
+
+Output and Project Structure
+============================
+
+- When our device is phone and orientation is portrait
+
+<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/Portrait.png" width="900px" height="600px" />
+
+- When our device is tablet or phone but orientation is landscape
+
+<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/Landscape.png" />
+
+- Project Structure
+
+<img src="https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven/doc/images/ProjectStructure.png" width="900px" height="600px" />
+
+
