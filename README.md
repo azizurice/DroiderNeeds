@@ -8,45 +8,45 @@ At the very beginning, I have added 21 apps for Organization purposes. At time b
 
 1. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppOne) --
 
-2. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwo) --
+2. [AppTwo](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwo) --
 
-3. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppThree) --
+3. [AppThree](https://github.com/azizurice/DroiderNeeds/tree/master/AppThree) --
 
-4. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppFour) --
+4. [AppFour](https://github.com/azizurice/DroiderNeeds/tree/master/AppFour) --
 
-5. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppFive) --
+5. [AppFive](https://github.com/azizurice/DroiderNeeds/tree/master/AppFive) --
 
-6. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppSix) --
+6. [AppSix](https://github.com/azizurice/DroiderNeeds/tree/master/AppSix) --
 
-7. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven) -- It is an app about Fragments. Here we show how making use of fragments solves one of the design issues.
+7. [AppSeven](https://github.com/azizurice/DroiderNeeds/tree/master/AppSeven) -- It is an app about Fragments. Here we show how making use of fragments solves one of the design issues.
 
-8. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppEight) --
+8. [AppEight](https://github.com/azizurice/DroiderNeeds/tree/master/AppEight) --
 
-9. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppNine) --
+9. [AppNine](https://github.com/azizurice/DroiderNeeds/tree/master/AppNine) --
 
-10. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTen) --
+10. [AppTen](https://github.com/azizurice/DroiderNeeds/tree/master/AppTen) --
 
-11. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppEleven) --
+11. [AppEleven](https://github.com/azizurice/DroiderNeeds/tree/master/AppEleven) --
 
-12. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwelve) --
+12. [AppTwelve](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwelve) --
 
-13. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppThirteen) --
+13. [AppThirteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppThirteen) --
 
-14. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppFourteen) --
+14. [AppFourteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppFourteen) --
 
-15. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppFifteen) --
+15. [AppFifteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppFifteen) --
 
-16. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppSixteen) --
+16. [AppSixteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppSixteen) --
 
-17. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppSeventeen) --
+17. [AppSeventeen](https://github.com/azizurice/DroiderNeeds/tree/master/AppSeventeen) --
 
-18. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppEighteen) --
+18. [AppEighteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppEighteen) --
 
-19. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppNineteen) --
+19. [AppNineteen](https://github.com/azizurice/DroiderNeeds/tree/master/AppNineteen) --
 
-20. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwenty) --
+20. [AppTwenty](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwenty) --
 
-21. [AppOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwentyOne) --
+21. [AppTwentyOne](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwentyOne) --
 
 
 
