@@ -22,11 +22,11 @@ At the very beginning, I have added 21 apps for Organization purposes. At time b
 
 8. [AppEight](https://github.com/azizurice/DroiderNeeds/tree/master/AppEight) --
 
-9. [AppNine](https://github.com/azizurice/DroiderNeeds/tree/master/AppNine) --
+9. [AppNine](https://github.com/azizurice/DroiderNeeds/tree/master/AppNine) -- A material design app that displays pictures using CardView, RecyclerView and CustomAdapter.
 
-10. [AppTen](https://github.com/azizurice/DroiderNeeds/tree/master/AppTen) --
+10. [AppTen](https://github.com/azizurice/DroiderNeeds/tree/master/AppTen) -- Here an app will be added to show how to build a custom view.
 
-11. [AppEleven](https://github.com/azizurice/DroiderNeeds/tree/master/AppEleven) --
+11. [AppEleven](https://github.com/azizurice/DroiderNeeds/tree/master/AppEleven) -- Here an app will be added to show how to build a custom layout.
 
 12. [AppTwelve](https://github.com/azizurice/DroiderNeeds/tree/master/AppTwelve) --
 
