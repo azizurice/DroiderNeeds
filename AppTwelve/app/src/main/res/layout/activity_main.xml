@@ -7,10 +7,19 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.letscodes.apptwelve.MainActivity">
+    tools:context="com.letscodes.apptwelve.activities.MainActivity">
 
     <TextView
+        android:id="@+id/textId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Click the button send home address" />
+
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Send Home Info"
+        android:layout_below="@+id/textId"/>
+
 </RelativeLayout>
