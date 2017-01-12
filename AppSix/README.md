@@ -13,8 +13,11 @@
    To create a service, we must create a subclass of [Service or any its subclasess](https://developer.android.com/reference/android/app/Service.html) and need to override some of its callback methods. We should override at least following important ones:
 
    I.   onStartCommand()
+
    II.  onBind()
+
    III. onCreate()
+
    IV.  OnDestroy()
 
    Note: Service class runs in the application main thread, by default. So we need to create a new thread inside the service if we want to avoid blocking/performance issues.However,  IntentService, one subclass of Service uses worker thread. If we don't require that our service handles multiple request simultaneously. It is better to create our own service by extending IntentSerive. However, if we want multi-threading, we should extend from Service class. Please visit [here](https://developer.android.com/reference/android/app/Service.html) for more details.
